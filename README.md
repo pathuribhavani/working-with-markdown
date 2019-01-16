@@ -96,4 +96,4 @@ dcase@nwmissouri.edu
 
 ## New Section 
 
-
+![Hosted image](https://www.gettyimages.ie/gi-resources/images/Homepage/Hero/UK/CMS_Creative_164657191_Kingfisher.jpg "birds")
