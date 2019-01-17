@@ -112,5 +112,6 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 - lazy.
 - beautiful
 ![google Image](https://upload.wikimedia.org/wikipedia/commons/3/36/Hopetoun_falls.jpg "Nature")
+![local Image](C:\Users\s534867\Desktop\love.jpg)
 
 
