@@ -3,7 +3,7 @@ A short README.md that explains how to get started with Markdown, a super-simple
 
 ## Links
 
-- [gmail](https://www.google.com/ "google")
+- [ggoogle](https://www.google.com/ "google")
 - [Facebook](https://www.facebook.com/ "Facebook")
 - [Webpage](https://www.google.com/ "google")
 - [Source](https://github.com/profcase/working-with-markdown "Working With Markdown Source")
@@ -100,7 +100,7 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 
 ## Names of My Friends
 
-1. BHAVANI
+1. **BHAVANI**
 1. NANDINI
 1. KAVYA
 1. NIKITHA
