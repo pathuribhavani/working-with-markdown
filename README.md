@@ -105,9 +105,10 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 1. NIKITHA
 
 ##  About Them
--cutie pie
--faasak
--lazy
--beautiful
+
+-cutie pie.
+-faasak.
+-lazy.
+-beautiful.
 
 
