@@ -109,6 +109,6 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 -cutie pie.
 -faasak.
 -lazy.
--beautiful.
+-beautiful
 
 
