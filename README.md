@@ -3,6 +3,7 @@ A short README.md that explains how to get started with Markdown, a super-simple
 
 ## Links
 
+- [Facebook](https://www.facebook.com/ "Facebook")
 - [Webpage](https://www.google.com/ "google")
 - [Source](https://github.com/profcase/working-with-markdown "Working With Markdown Source")
 
@@ -88,8 +89,6 @@ If editing online in GitHub, scroll up to the top of the edit box, and click "Pr
 
 Learn more by checking out [Mastering Markdown](https://guides.github.com/features/mastering-markdown/ "Mastering Markdown") and other resources. 
 
-##  About
-
 **Denise Case**
 
 **dcase@nwmissouri.edu**
@@ -97,3 +96,18 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 ## New Section 
 
 ![Image](https://www.gettyimages.ie/gi-resources/images/Homepage/Hero/UK/CMS_Creative_164657191_Kingfisher.jpg "birds")
+
+## Names of My Friends
+
+1. BHAVANI
+1. NANDINI
+1. KAVYA
+1. NIKITHA
+
+##  About Them
+-cutie pie
+-faasak
+-lazy
+-beautiful
+
+
