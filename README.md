@@ -3,7 +3,7 @@ A short README.md that explains how to get started with Markdown, a super-simple
 
 ## Links
 
-- [PATHURI](https://profcase.github.io/working-with-markdown/ "Working With Markdown Webpage")
+- [Webpage](https://www.google.com/ "google")
 - [Source](https://github.com/profcase/working-with-markdown "Working With Markdown Source")
 
 ## Getting Started
